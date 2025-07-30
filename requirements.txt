@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain-chroma
+langchain_google_genai
+sentence-transformers
+ipython
